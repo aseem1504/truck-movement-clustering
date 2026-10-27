@@ -1,0 +1,97 @@
+clusters,city,state,region
+1,Delhi,Delhi,North
+2,Delhi,Delhi,North
+3,Delhi,Delhi,North
+4,Ludhiana,Punjab,North
+5,Ludhiana,Punjab,North
+6,Ludhiana,Punjab,North
+7,Jaipur,Rajasthan,North
+8,Jaipur,Rajasthan,North
+9,Jaipur,Rajasthan,North
+10,Lucknow,Uttar Pradesh,North
+11,Lucknow,Uttar Pradesh,North
+12,Lucknow,Uttar Pradesh,North
+13,Kanpur,Uttar Pradesh,North
+14,Kanpur,Uttar Pradesh,North
+15,Kanpur,Uttar Pradesh,North
+16,Panipat,Haryana,North
+17,Panipat,Haryana,North
+18,Panipat,Haryana,North
+19,Agra,Uttar Pradesh,North
+20,Agra,Uttar Pradesh,North
+21,Agra,Uttar Pradesh,North
+22,Mumbai,Maharashtra,West
+23,Mumbai,Maharashtra,West
+24,Mumbai,Maharashtra,West
+25,Pune,Maharashtra,West
+26,Pune,Maharashtra,West
+27,Pune,Maharashtra,West
+28,Ahmedabad,Gujarat,West
+29,Ahmedabad,Gujarat,West
+30,Ahmedabad,Gujarat,West
+31,Surat,Gujarat,West
+32,Surat,Gujarat,West
+33,Surat,Gujarat,West
+34,Vadodara,Gujarat,West
+35,Vadodara,Gujarat,West
+36,Vadodara,Gujarat,West
+37,Nashik,Maharashtra,West
+38,Nashik,Maharashtra,West
+39,Nashik,Maharashtra,West
+40,Gandhidham,Gujarat,West
+41,Gandhidham,Gujarat,West
+42,Gandhidham,Gujarat,West
+43,Chennai,Tamil Nadu,South
+44,Chennai,Tamil Nadu,South
+45,Chennai,Tamil Nadu,South
+46,Bengaluru,Karnataka,South
+47,Bengaluru,Karnataka,South
+48,Bengaluru,Karnataka,South
+49,Hyderabad,Telangana,South
+50,Hyderabad,Telangana,South
+51,Hyderabad,Telangana,South
+52,Coimbatore,Tamil Nadu,South
+53,Coimbatore,Tamil Nadu,South
+54,Coimbatore,Tamil Nadu,South
+55,Vijayawada,Andhra Pradesh,South
+56,Vijayawada,Andhra Pradesh,South
+57,Vijayawada,Andhra Pradesh,South
+58,Kochi,Kerala,South
+59,Kochi,Kerala,South
+60,Kochi,Kerala,South
+61,Visakhapatnam,Andhra Pradesh,South
+62,Visakhapatnam,Andhra Pradesh,South
+63,Visakhapatnam,Andhra Pradesh,South
+64,Kolkata,West Bengal,East
+65,Kolkata,West Bengal,East
+66,Kolkata,West Bengal,East
+67,Bhubaneswar,Odisha,East
+68,Bhubaneswar,Odisha,East
+69,Bhubaneswar,Odisha,East
+70,Patna,Bihar,East
+71,Patna,Bihar,East
+72,Patna,Bihar,East
+73,Jamshedpur,Jharkhand,East
+74,Jamshedpur,Jharkhand,East
+75,Jamshedpur,Jharkhand,East
+76,Dhanbad,Jharkhand,East
+77,Dhanbad,Jharkhand,East
+78,Dhanbad,Jharkhand,East
+79,Nagpur,Maharashtra,Central
+80,Nagpur,Maharashtra,Central
+81,Nagpur,Maharashtra,Central
+82,Indore,Madhya Pradesh,Central
+83,Indore,Madhya Pradesh,Central
+84,Indore,Madhya Pradesh,Central
+85,Bhopal,Madhya Pradesh,Central
+86,Bhopal,Madhya Pradesh,Central
+87,Bhopal,Madhya Pradesh,Central
+88,Raipur,Chhattisgarh,Central
+89,Raipur,Chhattisgarh,Central
+90,Raipur,Chhattisgarh,Central
+91,Jabalpur,Madhya Pradesh,Central
+92,Jabalpur,Madhya Pradesh,Central
+93,Jabalpur,Madhya Pradesh,Central
+94,Guwahati,Assam,North East
+95,Guwahati,Assam,North East
+96,Guwahati,Assam,North East

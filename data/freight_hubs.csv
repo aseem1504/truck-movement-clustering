@@ -1,0 +1,33 @@
+city,state,region,lat,lon
+Delhi,Delhi,North,28.61,77.21
+Ludhiana,Punjab,North,30.90,75.85
+Jaipur,Rajasthan,North,26.91,75.79
+Lucknow,Uttar Pradesh,North,26.85,80.95
+Kanpur,Uttar Pradesh,North,26.45,80.33
+Panipat,Haryana,North,29.39,76.97
+Agra,Uttar Pradesh,North,27.18,78.01
+Mumbai,Maharashtra,West,19.08,72.88
+Pune,Maharashtra,West,18.52,73.86
+Ahmedabad,Gujarat,West,23.02,72.57
+Surat,Gujarat,West,21.17,72.83
+Vadodara,Gujarat,West,22.31,73.18
+Nashik,Maharashtra,West,20.00,73.79
+Gandhidham,Gujarat,West,23.08,70.13
+Chennai,Tamil Nadu,South,13.08,80.27
+Bengaluru,Karnataka,South,12.97,77.59
+Hyderabad,Telangana,South,17.39,78.49
+Coimbatore,Tamil Nadu,South,11.02,76.96
+Vijayawada,Andhra Pradesh,South,16.51,80.65
+Kochi,Kerala,South,9.93,76.27
+Visakhapatnam,Andhra Pradesh,South,17.69,83.22
+Kolkata,West Bengal,East,22.57,88.36
+Bhubaneswar,Odisha,East,20.30,85.82
+Patna,Bihar,East,25.59,85.14
+Jamshedpur,Jharkhand,East,22.80,86.20
+Dhanbad,Jharkhand,East,23.80,86.43
+Nagpur,Maharashtra,Central,21.15,79.09
+Indore,Madhya Pradesh,Central,22.72,75.86
+Bhopal,Madhya Pradesh,Central,23.26,77.41
+Raipur,Chhattisgarh,Central,21.25,81.63
+Jabalpur,Madhya Pradesh,Central,23.18,79.99
+Guwahati,Assam,North East,26.14,91.74
